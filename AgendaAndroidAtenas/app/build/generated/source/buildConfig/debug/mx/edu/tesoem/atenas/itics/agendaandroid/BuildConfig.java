@@ -1,7 +1,7 @@
 /**
  * Automatically generated file. DO NOT MODIFY
  */
-package mx.edu.tesoem.hugo4295.itics.agendaandroid;
+package mx.edu.tesoem.atenas.itics.agendaandroid;
 
 public final class BuildConfig {
   public static final boolean DEBUG = Boolean.parseBoolean("true");
