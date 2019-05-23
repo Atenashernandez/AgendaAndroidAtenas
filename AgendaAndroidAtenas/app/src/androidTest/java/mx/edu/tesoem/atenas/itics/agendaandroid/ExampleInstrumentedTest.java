@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("mx.edu.tesoem.hugo4295.itics.agendaandroid", appContext.getPackageName());
+        assertEquals("mx.edu.tesoem.atenas.itics.agendaandroid", appContext.getPackageName());
     }
 }
