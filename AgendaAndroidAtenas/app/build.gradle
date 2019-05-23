@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "mx.edu.tesoem.hugo4295.itics.agendaandroid"
+        applicationId "mx.edu.tesoem.atenas.itics.agendaandroid"
         minSdkVersion 22
         targetSdkVersion 28
         versionCode 1
