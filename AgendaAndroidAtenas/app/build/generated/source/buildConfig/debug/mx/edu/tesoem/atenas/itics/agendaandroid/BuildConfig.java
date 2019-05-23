@@ -5,7 +5,7 @@ package mx.edu.tesoem.atenas.itics.agendaandroid;
 
 public final class BuildConfig {
   public static final boolean DEBUG = Boolean.parseBoolean("true");
-  public static final String APPLICATION_ID = "mx.edu.tesoem.hugo4295.itics.agendaandroid";
+  public static final String APPLICATION_ID = "mx.edu.tesoem.atenas.itics.agendaandroid";
   public static final String BUILD_TYPE = "debug";
   public static final String FLAVOR = "";
   public static final int VERSION_CODE = 1;
